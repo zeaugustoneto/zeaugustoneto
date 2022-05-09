@@ -1,4 +1,4 @@
-### Sou José Augusto Neto, o segundo de seu nome... mas pode me chamar de Neto! 👋
+### Sou José Augusto Neto, mas pode me chamar de Neto! 👋
 
 💻🔋 Sou aluno de Análise e Desenvolvimento de Sistemas;
 
