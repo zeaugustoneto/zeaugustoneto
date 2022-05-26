@@ -2,7 +2,7 @@
 
 💻🔋 Sou aluno de Análise e Desenvolvimento de Sistemas;
 
-🛠 Estudando Java e Javascript;
+🛠 Estudando desenvolvimento web;
 
 🏀🧱 O melhor jogador de basquete do bairro;
 
