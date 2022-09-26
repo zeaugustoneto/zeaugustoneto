@@ -1,12 +1,12 @@
-### Sou José Augusto Neto, mas pode me chamar de Neto! 👋
+### Sou José Augusto Neto, mas pode me chamar de Neto! 
 
-💻🔋 Sou aluno de Análise e Desenvolvimento de Sistemas;
+🔋 Aluno de Análise e Desenvolvimento de Sistemas;
+💻 Estagiário Backend na Compass.UOL
 
-🛠 Estudando desenvolvimento web;
+🛠 Praticando Java & Spring Boot;
 
-🏀🧱 O melhor jogador de basquete do bairro;
 
-Javascript CSS & HTML; Java API e Servlets;
+ Java&Spring Boot / Javascript, CSS & HTML; 
 
   <div>
   <a href="mailto:netiin00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
