@@ -1,6 +1,7 @@
 ### Sou José Augusto Neto, mas pode me chamar de Neto! 
 
 🔋 Aluno de Análise e Desenvolvimento de Sistemas;
+
 💻 Estagiário Backend na Compass.UOL
 
 🛠 Praticando Java & Spring Boot;
